@@ -1,0 +1,15 @@
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.exe
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.deps.json
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.runtimeconfig.json
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.dll
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.pdb
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.AssemblyReference.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfoInputs.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfo.cs
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.CoreCompileInputs.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.dll
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\refint\ASM2-1651.dll
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.pdb
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.genruntimeconfig.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ref\ASM2-1651.dll
