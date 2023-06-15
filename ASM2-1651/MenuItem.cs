@@ -20,12 +20,21 @@ namespace ASM2_1651
         {
 
             get { return name; }
-            set { name = value; }
+            set
+            {   name = value;
+            }
         }
         public decimal Price
         {
             get { return price; }
-            set { price = value; }
+            set
+            {
+                if (value <= 1)
+                {
+                    throw new ArgumentException("Dishes cannot be priced < 1");
+
+                }
+                 price = value; }
         }
         public void DisplayInfoItem()
         {

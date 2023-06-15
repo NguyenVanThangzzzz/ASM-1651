@@ -6,7 +6,7 @@ namespace ASM2_1651
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
             Restaurant restaurant = new Restaurant();
             Customer customer = null;
             Order order = null;
@@ -46,7 +46,14 @@ namespace ASM2_1651
                         DisplayAllEmployees(restaurant);
                         break;
                     case 4:
-                        AddMenuItem(restaurant);
+                        try
+                        {
+                            AddMenuItem(restaurant);
+                        }
+                        catch (ArgumentException ex)
+                        {
+                            Console.WriteLine("Error: " + ex.Message);
+                        }
                         break;
                     case 5:
                         RemoveMenuItem(restaurant);
@@ -192,9 +199,12 @@ namespace ASM2_1651
             MenuItem item1 = new MenuItem("Pizza", 8.99m);
             MenuItem item2 = new MenuItem("Burger", 6.99m);
             MenuItem item3 = new MenuItem("Salad", 4.99m);
-            restaurant.menu.AddMenuItem(item1);
-            restaurant.menu.AddMenuItem(item2);
-            restaurant.menu.AddMenuItem(item3);
+            if (!menu.GetItems().Any(item => item.Name == item1.Name))
+                restaurant.menu.AddMenuItem(item1);
+            if (!menu.GetItems().Any(item => item.Name == item2.Name))
+                restaurant.menu.AddMenuItem(item2);
+            if (!menu.GetItems().Any(item => item.Name == item3.Name))
+                restaurant.menu.AddMenuItem(item3);
             if (menu != null)
             {
                 Console.WriteLine("All menu items:");

@@ -24,7 +24,7 @@ namespace ASM2_1651
             set {
                 if (value.Length < 5)
                 {
-                    throw new ArgumentException("Ten tren 5 chu may`");
+                    throw new ArgumentException("Name must be longer than 5 characters");
 
                 }
                 name = value; 
@@ -37,7 +37,7 @@ namespace ASM2_1651
             set {
                 if (value < 18)
                 {
-                    throw new ArgumentException("TUoi phai tren 18");
+                    throw new ArgumentException("Age must be over 18");
 
                 }
                 age = value; 

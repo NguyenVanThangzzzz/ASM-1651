@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LapC#\\ASM2-1651\\ASM2-1651\\ASM2-1651\\ASM2-1651.csproj": {}
+    "D:\\1651Lap\\Write ASM\\ASM-1651\\ASM2-1651\\ASM2-1651.csproj": {}
   },
   "projects": {
-    "E:\\LapC#\\ASM2-1651\\ASM2-1651\\ASM2-1651\\ASM2-1651.csproj": {
+    "D:\\1651Lap\\Write ASM\\ASM-1651\\ASM2-1651\\ASM2-1651.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LapC#\\ASM2-1651\\ASM2-1651\\ASM2-1651\\ASM2-1651.csproj",
+        "projectUniqueName": "D:\\1651Lap\\Write ASM\\ASM-1651\\ASM2-1651\\ASM2-1651.csproj",
         "projectName": "ASM2-1651",
-        "projectPath": "E:\\LapC#\\ASM2-1651\\ASM2-1651\\ASM2-1651\\ASM2-1651.csproj",
-        "packagesPath": "C:\\Users\\SBTC Thang Nuyen\\.nuget\\packages\\",
-        "outputPath": "E:\\LapC#\\ASM2-1651\\ASM2-1651\\ASM2-1651\\obj\\",
+        "projectPath": "D:\\1651Lap\\Write ASM\\ASM-1651\\ASM2-1651\\ASM2-1651.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\1651Lap\\Write ASM\\ASM-1651\\ASM2-1651\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SBTC Thang Nuyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
